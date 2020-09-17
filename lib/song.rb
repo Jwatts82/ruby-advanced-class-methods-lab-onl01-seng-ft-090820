@@ -11,10 +11,8 @@ class Song
   end
   
   def initialize(name)
-    @song = song 
+    @name = name 
   end 
   
-  def song
-    (song) = song
-  end
+  
 end
