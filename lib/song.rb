@@ -16,4 +16,5 @@ class Song
   
   def song
     (song) = song
+  end
 end
