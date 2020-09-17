@@ -14,5 +14,5 @@ class Song
     @name = name 
   end 
   
-  def Song.create_by_name
+   Song.create_by_name
 end
